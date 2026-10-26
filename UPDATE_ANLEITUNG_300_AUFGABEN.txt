@@ -1,0 +1,12 @@
+IHK-Lernapp 2027 – Update mit 300 fallbezogenen Aufgaben
+
+1. ZIP auf dem iPhone entpacken.
+2. In GitHub im Repository semerenkoellen-ux/ihk-lernapp-2027 die index.html hochladen und Änderungen bestätigen.
+3. Danach sw.js hochladen und bestätigen.
+4. GitHub Pages Veröffentlichung abwarten; Lernapp erneut öffnen.
+
+Neu: 300 selbst formulierte Aufgaben, je 100 IT, kaufmännisch, WiSo. Zwei gemischte Prüfungsmodi (20/30 Min., 60/90 Min.) und drei Fachbereichsmodi (IT 30/90, kaufmännisch 30/90, WiSo 20/60).
+
+WICHTIG: Dies sind fallbezogene Multiple-Choice-Übungen, keine offiziellen IHK-Aufgaben oder vollständigen originalgetreuen schriftlichen Prüfungen. Die 300 Aufgaben bestehen aus 30 Grundmustern mit je zehn unterschiedlichen Kundenkontexten und, bei Rechenaufgaben, veränderten Zahlen. Für volle Prüfungsnähe sind offene Antworten und umfangreichere Fallakten eine weitere Ausbaustufe.
+
+Bisherige Lernfortschritte bleiben unter dem vorhandenen Speicherschlüssel erhalten. Lernstand vorher über Fortschritt > Exportieren sichern. Aktive Prüfungen werden nicht gelöscht.
