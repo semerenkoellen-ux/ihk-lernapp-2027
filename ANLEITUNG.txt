@@ -1,0 +1,47 @@
+IT-PRÜFUNGSCOACH 2027 – PWA FÜR GITHUB PAGES
+===========================================
+
+WAS ENTHALTEN IST
+index.html – die Lernapp (Modul 1 mit 5 Lektionen, 10 Quizfragen und 15 Karteikarten)
+manifest.webmanifest – App-Name und Startverhalten
+sw.js – Offline-Zwischenspeicherung
+icons/ – App-Symbole
+
+GITHUB-KONTO ANLEGEN
+1. Öffne https://github.com/signup
+2. Erstelle ein kostenloses Konto und bestätige deine E-Mail-Adresse.
+3. Melde dich an.
+
+APP HOCHLADEN (am Computer am einfachsten)
+1. Gehe zu https://github.com/new
+2. Repository name: ihk-lernapp-2027
+3. Sichtbarkeit: Public (für GitHub Pages mit kostenlosem Konto).
+4. Klicke Create repository.
+5. Klicke uploading an existing file bzw. Add file > Upload files.
+6. Entpacke das ZIP und lade ALLE enthaltenen Dateien hoch, inklusive des Ordners icons.
+   Wichtig: index.html muss im Stammverzeichnis des Repositories liegen.
+7. Klicke Commit changes.
+8. Öffne Settings > Pages.
+9. Unter Build and deployment: Source = Deploy from a branch.
+10. Branch = main und Ordner = /(root), dann Save.
+11. Nach Veröffentlichung findest du die Adresse unter Settings > Pages.
+    Üblicherweise: https://DEIN-BENUTZERNAME.github.io/ihk-lernapp-2027/
+
+IPHONE INSTALLATION
+1. Öffne die veröffentlichte HTTPS-Adresse in Safari.
+2. Tippe auf Teilen (Quadrat mit Pfeil).
+3. Wähle Zum Home-Bildschirm / Zum Home-Bildschirm hinzufügen.
+4. Falls angeboten: Als Web-App öffnen aktivieren und Hinzufügen wählen.
+5. Starte IT-Coach 2027 vom Home-Bildschirm.
+
+OFFLINE & LERNSTAND
+Nach dem ersten vollständigen Laden über HTTPS werden die App-Dateien für die
+Offline-Nutzung zwischengespeichert. Bitte vor der ersten Offline-Nutzung testen.
+Lernfortschritt wird lokal im jeweiligen Browser bzw. der installierten App gespeichert.
+Browserdaten löschen oder Gerätewechsel kann diesen Lernstand löschen.
+Nutze die Exportfunktion im Fortschrittsbereich regelmäßig als Backup.
+
+WICHTIG
+GitHub Pages ist öffentlich: keine privaten Daten, Passwörter oder Mandantendaten hochladen.
+Die App ist kein offizielles IHK-Angebot. Noch enthalten ist nur Modul 1.
+Diese Dateien sind zur Veröffentlichung vorbereitet, aber noch nicht live gehostet.
